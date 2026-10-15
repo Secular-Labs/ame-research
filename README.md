@@ -52,6 +52,30 @@ AMEI defines a practice-led interface between the operational core and the exter
 
 ## Architecture Diagrams
 
+## How the AME Framework Fits Together
+
+The Autonomous Micro-Enterprise (AME) framework brings together five operational pillars and a surrounding market-interface layer.
+
+### Operational Core
+
+- **AMEA — Architecture:** Defines the multi-agent runtime, orchestration, state validation, and verification architecture.
+- **AMEE — Economics:** Examines enterprise boundaries, coordination costs, and algorithmic clearing.
+- **AMEG — Governance:** Addresses accountability, governance controls, and auditability in multi-agent systems.
+- **AMEF — Finance:** Examines capital efficiency, valuation, and investment dynamics in algorithmic organizations.
+- **AMES — Security:** Addresses security boundaries, provenance, verification, and controlled execution.
+
+### Market Interface Layer
+
+- **AMEI — Interface:** Describes the practice-led interface between the operational core and external markets, including demand discovery, conversion, retention, partnerships, positioning, and feedback.
+
+AMEI surrounds the five-pillar operational core; it is not a sixth sibling pillar.
+
+### Related Domain Application
+
+- **Autonomous Programmatic Clearing:** Applies ideas from the AME research to programmatic advertising, including verification DAGs, IAB standards compliance, and algorithmic clearing. It is a related domain application, not an additional AME pillar.
+
+Read the individual publications for each component's definitions, assumptions, and limitations.
+
 Visual representations of the AME framework are available in the [Diagrams directory](diagrams/README.md), including:
 
 - **AMEI — Market Interface Architecture:** Shows how the market-interface layer surrounds the five-pillar operational core.
