@@ -2,9 +2,9 @@
 
 This directory contains visual materials associated with the Autonomous Micro-Enterprise (AME) research framework.
 
-## AMEI — Market Interface Architecture
+## 1. AMEI — Market Interface Architecture
 
-**File:** `amei-market-interface-architecture.jpeg`
+**File:** `AMEI_image.jpeg`
 
 This diagram presents the AMEI market-interface layer surrounding the five-pillar operational core:
 
@@ -18,12 +18,21 @@ The market-interface layer represents six practice-led functions: demand discove
 
 AMEI is a surrounding market-interface layer, not a sixth sibling operational pillar.
 
-**Source:** [Autonomous Micro-Enterprise Interface (AMEI)](https://doi.org/10.5281/zenodo.22718769)
+**Source paper:** [Autonomous Micro-Enterprise Interface (AMEI)](https://doi.org/10.5281/zenodo.22718769)
+
+## 2. AMES — Security Runtime Architecture
+
+**File:** `ames-security-runtime-architecture.png`
+
+This diagram presents a six-layer runtime flow with AMES security extensions. It covers ingress normalization, provenance tagging, verification DAGs, boundary verification, attestation and escalation, and deterministic settlement.
+
+The architecture distinguishes AMEA core-layer stages from AMES security-layer stages and illustrates ingress vectors, bounded escalation, and fail-closed security review.
+
+**Source paper:** [Autonomous Micro-Enterprise Security (AMES)](https://doi.org/10.5281/zenodo.22720650)
 
 ## Planned Diagrams
 
 - AMEI — Containment schematic
-- AMES — Security runtime architecture
 - Additional cross-pillar architecture diagrams, where appropriate
 
-The diagrams should be interpreted alongside their corresponding research papers. Refer to the original publications for the complete definitions, assumptions, and limitations of each framework component.
+Diagrams should be interpreted alongside their corresponding research papers. Refer to the original publications for the complete definitions, assumptions, and limitations of each framework component.
