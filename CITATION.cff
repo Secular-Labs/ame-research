@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the relevant published AME research paper when using or discussing this framework."
+type: software
+title: "Autonomous Micro-Enterprise (AME) Research Framework"
+authors:
+  - family-names: Rajagopal
+    given-names: Ram Kumar
+repository-code: "https://github.com/Secular-Labs/ame-research"
+url: "https://secularlabs.co/insights"
