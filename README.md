@@ -50,6 +50,15 @@ AMEI defines a practice-led interface between the operational core and the exter
 
 ## Related Application: Autonomous Programmatic Clearing
 
+## Architecture Diagrams
+
+Visual representations of the AME framework are available in the [Diagrams directory](diagrams/README.md), including:
+
+- **AMEI — Market Interface Architecture:** Shows how the market-interface layer surrounds the five-pillar operational core.
+- **AMES — Security Runtime Architecture:** Illustrates the six-layer runtime flow with AMES security extensions.
+
+These diagrams complement the published research papers and should be interpreted alongside their respective publications.
+
 This companion application examines the AMEA framework in programmatic advertising, including verification DAGs, IAB standards compliance, and algorithmic clearing. It is a domain-specific application of the framework, not a separate operational pillar.
 
 **Publication:** https://papers.ssrn.com/abstract=7350621
