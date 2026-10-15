@@ -1,60 +1,55 @@
-# Autonomous Micro-Enterprise (AME) Research Programme
+## Published Research
 
-The Autonomous Micro-Enterprise (AME) research programme, developed by Ram Kumar Rajagopal at Secular Labs, investigates how AI-native architectures can coordinate business operations, economics, governance, finance, and security while connecting operational capability to real markets.
+### 1. AMEA — Autonomous Micro-Enterprise Architecture
 
-The programme comprises five operational pillars and a surrounding market-interface framework.
+**Focus:** Multi-agent orchestration, runtime architecture, state validation, and verification.
 
-## Research architecture
+AMEA formalizes an asynchronous multi-agent finite-state machine, with explicit state-validation predicates, bounded self-correction, verification directed acyclic graphs (DAGs), and a four-layer reference runtime. Its cost model includes an illustrative simulation under disclosed assumptions; these outputs are not production benchmarks.
 
-### Operational core
+**Publication:** https://doi.org/10.5281/zenodo.22129869
 
-- **AMEA — Autonomous Micro-Enterprise Architecture:** Multi-agent orchestration, state validation, verification DAGs, and runtime architecture.
-- **AMEE — Autonomous Micro-Enterprise Economics:** Firm boundaries, coordination costs, and the economics of algorithmic coordination.
-- **AMEG — Autonomous Micro-Enterprise Governance:** Accountability, governance controls, and auditability.
-- **AMEF — Autonomous Micro-Enterprise Finance:** Capital allocation, liquidity, and financial mechanisms.
-- **AMES — Autonomous Micro-Enterprise Security:** Security boundaries, verification, and trust in multi-agent systems.
+### 2. AMEE — Autonomous Micro-Enterprise Economics
 
-### Market interface
+**Focus:** Theory of the firm, coordination costs, and algorithmic clearing.
 
-- **AMEI — Autonomous Micro-Enterprise Interface / Market Interface Layer:** The practice-led framework describing how the operational core engages customers, markets, distribution partners, regulators, and platforms.
+AMEE examines how algorithmic coordination capital may change the economics of enterprise boundaries and the relationship between transaction volume, administrative overhead, and human labour.
 
-AMEI is the surrounding market-interface layer, not a sixth sibling pillar. It connects the operational core to the external environment through demand discovery, conversion, retention, partnership and channel development, brand and positioning, and feedback.
+**Publication:** https://papers.ssrn.com/abstract=7360739
 
-## Published research
+### 3. AMEG — Autonomous Micro-Enterprise Governance
 
-Each paper should be read through its canonical publication record. This repository provides a navigable index and supporting research materials.
+**Focus:** Architectural accountability, deontic-epistemic verification, and statutory auditability.
 
-| Framework | Research focus |
-|---|---|
-| AMEA | Architecture and runtime |
-| AMEE | Economics and coordination |
-| AMEG | Governance and accountability |
-| AMEF | Finance and capital |
-| AMES | Security and trust |
-| AMEI | Market interface and commercial execution |
+AMEG addresses governance and accountability in multi-agent systems, including machine-readable controls, verification of obligations, and auditable execution.
 
-Publication links will be maintained here as the canonical records are verified.
+**Publication:** https://doi.org/10.5281/zenodo.22718641
 
-## Research approach and evidence discipline
+### 4. AMEF — Autonomous Micro-Enterprise Finance
 
-The programme distinguishes formal architectural propositions, practice-led frameworks, illustrative simulations, and empirical observations. Model outputs and theoretical predictions should not be interpreted as validated production performance unless supported by appropriate evidence.
+**Focus:** Capital efficiency, valuation multiples, and investment dynamics.
 
-The research agenda includes empirical testing of agent-state verification, correction behaviour, operating-cost assumptions, and the constraints imposed by market adoption.
+AMEF examines financial mechanisms for algorithmic organizations, including capital allocation, working capital, operating efficiency, and the implications of automation for investment and enterprise valuation.
 
-## About
+**Publication:** https://doi.org/10.5281/zenodo.22648618
 
-**Researcher:** Ram Kumar Rajagopal  
-**Organisation:** Secular Labs, Coimbatore, India  
-**ORCID:** https://orcid.org/0009-0001-0669-4117
+### 5. AMES — Autonomous Micro-Enterprise Security
 
-- Website: https://secularlabs.co
-- Research hub: https://secularlabs.co/insights
-- Free AI Operational Diagnostic: https://secularlabs.co/diagnostic
+**Focus:** Security boundaries, adversarial threats, and verification in autonomous systems.
 
-## Licensing and attribution
+AMES examines security controls between non-deterministic agent reasoning and deterministic execution, including boundary verification, zero-trust enforcement, and the treatment of residual compromise risk.
 
-The papers published through Zenodo and SSRN identify their license as Creative Commons Attribution 4.0 International (CC BY 4.0). Please consult each paper’s canonical publication record for its applicable license and attribution details.
+**Publication:** Add the canonical publication URL after verification.
 
-CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+### 6. AMEI — Autonomous Micro-Enterprise Interface / Market Interface Layer
 
-The research-paper license should not be assumed to apply automatically to software, trademarks, or other materials in this repository.
+**Focus:** Market engagement, demand discovery, conversion, retention, partnerships, positioning, and feedback.
+
+AMEI defines a practice-led interface between the operational core and the external market. It is a surrounding layer that contains the five operational pillars, not a sixth sibling pillar. Its claims are descriptive and practice-led rather than a formal mathematical model.
+
+**Publication:** https://doi.org/10.5281/zenodo.22718769
+
+## Related Application: Autonomous Programmatic Clearing
+
+This companion application examines the AMEA framework in programmatic advertising, including verification DAGs, IAB standards compliance, and algorithmic clearing. It is a domain-specific application of the framework, not a separate operational pillar.
+
+**Publication:** https://papers.ssrn.com/abstract=7350621
