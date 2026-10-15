@@ -86,3 +86,23 @@ These diagrams complement the published research papers and should be interprete
 This companion application examines the AMEA framework in programmatic advertising, including verification DAGs, IAB standards compliance, and algorithmic clearing. It is a domain-specific application of the framework, not a separate operational pillar.
 
 **Publication:** https://papers.ssrn.com/abstract=7350621
+
+## How to Cite and Attribute This Research
+
+The AME framework is documented across individual research publications. When citing a specific concept, definition, proposition, or application, refer to the corresponding paper and its canonical publication record.
+
+### Canonical Publications
+
+- AMEA — https://doi.org/10.5281/zenodo.22129869
+- AMEE — https://doi.org/10.2139/ssrn.7360739
+- AMEG — https://doi.org/10.5281/zenodo.22718641
+- AMEF — https://doi.org/10.5281/zenodo.22648618
+- AMES — https://doi.org/10.5281/zenodo.22720650
+- AMEI — https://doi.org/10.5281/zenodo.22718769
+- Autonomous Programmatic Clearing — https://papers.ssrn.com/abstract=7350621
+
+### Attribution and Reuse
+
+The published research papers are identified with their respective publication records and licensing information. Check the license attached to the specific publication before reusing its text, figures, or other material.
+
+Attribution to the original author and publication is recommended when discussing or referencing the framework. The inclusion of a paper or diagram in this repository does not, by itself, grant rights to reuse third-party material, trademarks, or software.
