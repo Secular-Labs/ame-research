@@ -5,6 +5,7 @@ This directory contains visual materials associated with the Autonomous Micro-En
 ## 1. AMEI — Market Interface Architecture
 
 **File:** `AMEI_image.jpeg`
+![AMEI Market Interface Architecture](AMEI_image.jpeg)
 
 This diagram presents the AMEI market-interface layer surrounding the five-pillar operational core:
 
@@ -23,6 +24,7 @@ AMEI is a surrounding market-interface layer, not a sixth sibling operational pi
 ## 2. AMES — Security Runtime Architecture
 
 **File:** `ames-security-runtime-architecture.png`
+![AMES Security Runtime Architecture](ames-security-runtime-architecture.png)
 
 This diagram presents a six-layer runtime flow with AMES security extensions. It covers ingress normalization, provenance tagging, verification DAGs, boundary verification, attestation and escalation, and deterministic settlement.
 
