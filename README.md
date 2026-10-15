@@ -38,7 +38,7 @@ AMEF examines financial mechanisms for algorithmic organizations, including capi
 
 AMES examines security controls between non-deterministic agent reasoning and deterministic execution, including boundary verification, zero-trust enforcement, and the treatment of residual compromise risk.
 
-**Publication:** Add the canonical publication URL after verification.
+**Publication:** https://doi.org/10.5281/zenodo.22720650
 
 ### 6. AMEI — Autonomous Micro-Enterprise Interface / Market Interface Layer
 
